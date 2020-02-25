@@ -1,2 +1,2 @@
-# aire19
-Sixth International Workshop on Artificial Intelligence for Requirements Engineering
+# aire20
+Seventh International Workshop on Artificial Intelligence and Requirements Engineering
